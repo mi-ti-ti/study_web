@@ -1,0 +1,24 @@
+header {
+  height: 40px;
+  font-size: 40px;
+  margin-top: 0px;
+  font-family: sans-serif;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid;
+}
+
+div.link-list ul.category{
+  font-size: 15px;
+  list-style: none;
+  padding-left: 10px;
+}
+
+div.link-list ul.one-article{
+  font-size: 15px;
+  padding-left: 10px;
+}
