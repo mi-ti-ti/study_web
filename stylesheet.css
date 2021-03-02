@@ -2,23 +2,36 @@ header {
   height: 40px;
   font-size: 40px;
   margin-top: 0px;
-  font-family: sans-serif;
-  padding: 15px;
+  font-family: "Noto Sans JP", sans-serif;
+  padding-bottom: 10px;
+}
+
+img {
+  height: 50px;
+  width: 200px;
 }
 
 h1 {
   font-size: 20px;
-  padding-top: 5px;
+  padding: 4px 0px;
+  font-family: "Noto Sans JP", sans-serif;
   border-bottom: 1px solid;
+  margin-bottom: 0px;
 }
 
-div.link-list ul.category{
-  font-size: 15px;
-  list-style: none;
-  padding-left: 10px;
+ul {
+  margin-top: 5px;
+  padding-left: 20px;
 }
 
-div.link-list ul.one-article{
+li {
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 15px;
-  padding-left: 10px;
+  margin: 5px 0px;
+}
+
+p {
+  font-size: 15px;
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 2px 0px;
 }
