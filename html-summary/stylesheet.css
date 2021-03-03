@@ -37,9 +37,14 @@ p {
 }
 
 a {
+  color: black;
   text-decoration: underline;
 }
 
 header a {
+  text-decoration: none;
+}
+
+a :hover {
   text-decoration: none;
 }
