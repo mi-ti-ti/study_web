@@ -36,15 +36,15 @@ p {
   margin: 2px 0px;
 }
 
-a {
-  color: black;
-}
-
 header a {
   text-decoration: none;
 }
 
-a :hover {
+a {
+  color: black;
+}
+
+a:hover {
   text-decoration: none;
 }
 
