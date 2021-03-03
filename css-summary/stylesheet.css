@@ -47,11 +47,3 @@ a :hover{
 header a :hover{
   text-decoration: none;
 }
-
-dt {
-  font-size: 17px;
-}
-
-dl {
-  font-size: 15px;
-}
